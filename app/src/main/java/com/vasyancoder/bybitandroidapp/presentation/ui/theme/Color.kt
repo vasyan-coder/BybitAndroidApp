@@ -1,4 +1,4 @@
-package com.vasyancoder.bybitandroidapp.ui.theme
+package com.vasyancoder.bybitandroidapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
